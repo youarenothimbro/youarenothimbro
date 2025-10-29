@@ -10,8 +10,7 @@
 
 ## 11Scripts
 
-- 🔒[**11_ajail**](https://comingsoon.com)  
-  Adminjail Script
+- 🔒[**11_ajail**](https://comingsoon.com) Adminjail Script
 
 - 🔃[**11_loadingscreen**](https://comingsoon.com)
   Simple Loadingscreen with minigame in it
