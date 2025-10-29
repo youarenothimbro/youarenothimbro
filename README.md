@@ -18,6 +18,10 @@
 - 🛜[**11_vanity**](https://comingsoon.com)
   Anti - (Name, VPN, Weapon, Prop and Trigger) script with json (log/ban) DB in it
 
+
+
+- soon.. (Hud, Safezone, Identity, Notify, Gas-Station, Shops, Garage, Casesystem)
+  
 ---
 
 ## 📫 Contact & Support
