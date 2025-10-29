@@ -8,7 +8,7 @@
 
 ---
 
-## [11Scripts](https://www.tebex.io/)
+## [11Scripts](https://comingsoon.com)
 
 - 🔒[**11_ajail**](https://comingsoon.com) Adminjail Script
 
