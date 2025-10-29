@@ -21,6 +21,6 @@
 ## 📫 Contact & Support
 
 - 📦 GitHub: [@youarenothimbro](https://github.com/youarenothimbro)  
-- 💬 **Discord**: `.youarenothimbro
+- 💬 **Discord**: `.youarenothimbro`
 - 🐛 Found a bug or have feedback? → Join Discord Server.  
 - https://discord.gg/comingsoon
