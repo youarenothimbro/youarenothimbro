@@ -10,14 +10,19 @@
 
 ## 11Scripts
 
-- 🔒 [**11_ajail**](https://github.com/youarenothimbro/11_ajail)  
-  Adminjail Script.
+- 🔒[**11_ajail**](https://comingsoon.com)  
+  Adminjail Script
+
+- 🔃[**11_loadingscreen**](https://comingsoon.com)
+  Simple Loadingscreen with minigame in it
+
+- 🛜[**11_vanity**](https://comingsoon.com)
+  Anti - (Name, VPN, Weapon, Prop and Trigger) script with json (log/ban) DB in it
 
 ---
 
 ## 📫 Contact & Support
 
-- 📦 GitHub: [@youarenothimbro](https://github.com/youarenothimbro)  
 - 💬 **Discord**: `.youarenothimbro`
 - 🐛 Found a bug or have feedback? → Join Discord Server.  
 - https://discord.gg/comingsoon
