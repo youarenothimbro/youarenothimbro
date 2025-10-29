@@ -23,5 +23,5 @@
 ## 📫 Contact & Support
 
 - 💬 **Discord**: `.youarenothimbro`
-- 🐛 Found a bug or have feedback? → Join Discord Server.  
+- 🐛 Found a bug or have feedback? → Join ou Discord Server.  
 - https://discord.gg/comingsoon
