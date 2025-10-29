@@ -10,6 +10,8 @@
 
 ## [11Scripts](https://comingsoon.com)
 
+###SCRIPTS ARE NOT UPLOADED YET!
+
 - 🔒[**11_ajail**](https://comingsoon.com) Adminjail Script
 
 - 🔃[**11_loadingscreen**](https://comingsoon.com)
