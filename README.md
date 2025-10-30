@@ -22,7 +22,7 @@
 
 
 
-- soon.. (Hud, Safezone, Identity, Notify, Gas-Station, Shops, Garage, Casesystem)
+- soon.. (Hud, Safezone, Identity, Notify, Gas-Station, Shops, Tradingsystem, Casesystem)
   
 ---
 
